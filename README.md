@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## I am learning:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
+<img loading="lazy" src="https://www.svgrepo.com/show/353925/javascript.svg" width="40" height="40"/>
 
 ## Contacts:
 

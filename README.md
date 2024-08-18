@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 ## Execution Environment:
 <img loading="lazy" src="https://www.svgrepo.com/show/452075/node-js.svg" width="40" height="40"/>
 
+## Template Engine:
+
+<img loading="lazy" src="https://www.svgrepo.com/show/373574/ejs.svg" width="40" height="40"/>
 
 ## Contacts:
 

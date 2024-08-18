@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 ## Relational Database Management System:
 <img loading="lazy" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40"/>
+## Non-relational Database Management System:
+<img loading="lazy" src="https://www.svgrepo.com/show/373845/mongo.svg" width="40" height="40"/>
 
 ## Contacts:
 

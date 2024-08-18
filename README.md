@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 
 <img loading="lazy" src="https://www.svgrepo.com/show/373574/ejs.svg" width="40" height="40"/>
 
+## Relational Database Management System:
+<img loading="lazy" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40"/>
+
 ## Contacts:
 
 <div>

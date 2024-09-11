@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Programming Languages:
 
-<img loading="lazy" src="https://www.svgrepo.com/show/353924/java.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/353925/javascript.svg" width="40" height="40"/>
+<img loading="lazy" src="https://www.svgrepo.com/show/353924/java.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/353925/javascript.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40"/>
 
 ## Operating System:
 <img loading="lazy" src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="40" height="40"/> 

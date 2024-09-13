@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 ## Template Engine:
 
-<img loading="lazy" src="https://www.svgrepo.com/show/373574/ejs.svg" width="40" height="40"/>
-
+<img loading="lazy" src="https://www.svgrepo.com/show/373574/ejs.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/353855/handlebars.svg" width="40" height="40"/>
 ## Relational Database Management System:
 <img loading="lazy" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40"/>
 

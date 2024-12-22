@@ -1,107 +1,67 @@
-# Hi 👋
-
-Welcome to my GitHub profile! 🚀
+# Hi 👋 Welcome to my GitHub profile! 🚀
 
 ---
 
-## 🛠️ Tools and Technologies:
-<p>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://www.svgrepo.com/show/452211/github.svg" width="40" height="40"/>
+## 🛠️ Skills Overview
+
+### **Tools & Technologies** | **Programming Languages** | **Frameworks**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/452211/github.svg" title="GitHub" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" title="Linux" width="40" height="40" style="margin:10px;"/>
+  |
+  <img src="https://www.svgrepo.com/show/353924/java.svg" title="Java" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" title="SQL" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" title="JavaScript" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" title="Python" width="40" height="40" style="margin:10px;"/>
+  |
+  <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/452092/react.svg" title="React" width="40" height="40" style="margin:10px;"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-pack-icons-1175029.png" title="Express" width="40" height="40" style="margin:10px;"/>
 </p>
 
 ---
 
-## 🌱 I am Learning:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/448236/linux.svg" width="40" height="40"/>
+### **Databases** | **Operating Systems** | **Template Engines**
+<p align="center">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" title="MySQL" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" title="MongoDB" width="40" height="40" style="margin:10px;"/>
+  |
+  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" title="Windows" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/452075/node-js.svg" title="Node.js" width="40" height="40" style="margin:10px;"/>
+  |
+  <img src="https://www.svgrepo.com/show/373574/ejs.svg" title="EJS" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/353855/handlebars.svg" title="Handlebars" width="40" height="40" style="margin:10px;"/>
 </p>
 
 ---
 
-## 💻 Programming Languages:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/353924/java.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://www.svgrepo.com/show/353925/javascript.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40"/>
-</p>
-
----
-
-## 🖥️ Operating Systems:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📚 Frameworks:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://www.svgrepo.com/show/452092/react.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-512/free-express-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-pack-icons-1175029.png?f=webp&w=256" width="40" height="40"/>
-</p>
-
----
-
-## 🌐 Execution Environment:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/452075/node-js.svg" width="40" height="40"/>
-</p>
-
----
-
-## 🖌️ Template Engines:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/373574/ejs.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://www.svgrepo.com/show/353855/handlebars.svg" width="40" height="40"/>
-</p>
-
----
-
-## 💾 Relational Databases:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📂 Non-relational Databases:
-<p>
-  <img loading="lazy" src="https://www.svgrepo.com/show/373845/mongo.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📫 Contacts:
-<p>
+## 📫 Contacts
+<p align="center">
   <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="margin:10px;"/>
   </a>
   <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin:10px;"/>
   </a>
   <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" style="margin:10px;"/>
   </a>
   <a href="mailto:contato@seu-usuário-aqui">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin:10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:10px;"/>
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Stats:
-<div>
-  <a href="https://github.com/PACFWL">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PACFWL&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PACFWL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+## 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PACFWL&layout=compact&langs_count=7&theme=dracula" height="150em" style="margin:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PACFWL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" style="margin:10px;"/>
+</p>
 
 ---
 

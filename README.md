@@ -11,8 +11,10 @@
   <img src="https://www.svgrepo.com/show/448236/linux.svg" title="Linux" width="40" height="40" style="margin:10px;"/>
   |
   <img src="https://www.svgrepo.com/show/353924/java.svg" title="Java" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" title="Kotlin" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/255832/sql.svg" title="SQL" width="40" height="40" style="margin:10px;"/>
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg" title="JavaScript" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/349540/typescript.svg" title="TypeScript" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" title="Python" width="40" height="40" style="margin:10px;"/>
   |
   <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring" width="40" height="40" style="margin:10px;"/>

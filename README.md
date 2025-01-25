@@ -9,6 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/452211/github.svg" title="GitHub" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/448236/linux.svg" title="Linux" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" title="Visual Studio Code" width="40" height="40" style="margin:10px;"/>
   |
   <img src="https://www.svgrepo.com/show/353924/java.svg" title="Java" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" title="Kotlin" width="40" height="40" style="margin:10px;"/>

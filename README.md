@@ -60,10 +60,35 @@
 
 ---
 
-## 🏆 GitHub Stats
+<!-- ## 🏆 GitHub Stats(General) 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PACFWL&layout=compact&langs_count=7&theme=dracula" height="150em" style="margin:10px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=PACFWL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" style="margin:10px;"/>
+</p>
+-->
+
+## 🏆 GitHub Stats
+<p align="center">
+  <a href="https://github.com/PACFWL">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PACFWL&theme=dracula&hide_border=true" height="300em"/>
+  </a>
+  <a href="https://github.com/PACFWL">
+    <img src="https://github-readme-stats.vercel.app/api?username=PACFWL&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="300em"/>
+  </a>
+</p>
+
+### 💻 Linguagens mais usadas
+<p align="center">
+  <a href="https://github.com/PACFWL">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PACFWL&layout=donut&theme=dracula&hide_border=true&langs_count=8" height="300em"/>
+  </a>
+</p>
+
+### 🎯 GitHub Trophies  
+<p align="center">
+  <a href="https://github.com/PACFWL">
+    <img src="https://github-profile-trophy.vercel.app/?username=PACFWL&theme=dracula&no-frame=true&row=1&column=8"/>
+  </a>
 </p>
 
 ---

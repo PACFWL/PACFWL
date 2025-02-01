@@ -39,7 +39,7 @@
 
 ---
 
-## 📫 Contacts
+<!--## 📫 Contacts
 <p align="center">
   <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="margin:10px;"/>
@@ -59,7 +59,7 @@
 </p>
 
 ---
-
+-->
 <!-- ## 🏆 GitHub Stats(General) 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PACFWL&layout=compact&langs_count=7&theme=dracula" height="150em" style="margin:10px;"/>

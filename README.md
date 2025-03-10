@@ -20,6 +20,7 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, trabalhando com React
   |
   <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/452092/react.svg" title="React" width="40" height="40" style="margin:10px;"/>
+  <img src="https://www.svgrepo.com/show/452075/node-js.svg" title="Node.js" width="40" height="40" style="margin:10px;"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-express-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-pack-icons-1175029.png" title="Express" width="40" height="40" style="margin:10px;"/>
 </p>
 
@@ -31,7 +32,6 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, trabalhando com React
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" title="MongoDB" width="40" height="40" style="margin:10px;"/>
   |
   <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" title="Windows" width="40" height="40" style="margin:10px;"/>
-  <img src="https://www.svgrepo.com/show/452075/node-js.svg" title="Node.js" width="40" height="40" style="margin:10px;"/>
   |
   <img src="https://www.svgrepo.com/show/373574/ejs.svg" title="EJS" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/353855/handlebars.svg" title="Handlebars" width="40" height="40" style="margin:10px;"/>

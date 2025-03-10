@@ -1,4 +1,4 @@
-# Hi 👋 Welcome to my GitHub profile! 🚀
+# Olá 👋 Bem-vindo ao meu perfil do GitHub
 Sou um desenvolvedor Full-Stack apaixonado por tecnologia, trabalhando com React & Spring Boot para criar aplicações modernas e escaláveis. Sempre explorando novas tecnologias e aprimorando minhas habilidades.
 ---
 

@@ -4,7 +4,7 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, trabalhando com React
 
 ## 🛠️ Skills Overview
 
-### **Tools & Technologies** | **Programming Languages** | **Frameworks**
+### **Ferramentas e Tecnologias** | **Linguagens de Programação** | **Frameworks**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/452211/github.svg" title="GitHub" width="40" height="40" style="margin:10px;"/>
@@ -25,7 +25,7 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, trabalhando com React
 
 ---
 
-### **Databases** | **Operating Systems** | **Template Engines**
+### **Bancos de dados** | **Sistemas operacionais** | **Template Engines**
 <p align="center">
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" title="MySQL" width="40" height="40" style="margin:10px;"/>
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" title="MongoDB" width="40" height="40" style="margin:10px;"/>
